@@ -1,0 +1,9 @@
+Home Kiosk software still in development. You'll need Qt 4.4 to compile and run.
+This is old code which I haven't maintained in some years. YMMV. Currently it
+controls UPB lighting, has a built-in web browser and has a few other utilities.
+I use this Kiosk software on a Linux Atom-based system with a touch screen built in
+to my wall
+
+License: GPLv2
+
+Written by Mark Buechler - Mark.Buechler@gmail.com

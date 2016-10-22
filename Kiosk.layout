@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="KioskBackground.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="35" topLine="0" />
+	</File>
+	<File name="KioskBackground.h" open="1" top="0" tabpos="4">
+		<Cursor position="195" topLine="0" />
+	</File>
+	<File name="KioskButton.cpp" open="1" top="0" tabpos="22">
+		<Cursor position="1217" topLine="24" />
+	</File>
+	<File name="KioskButton.h" open="1" top="0" tabpos="23">
+		<Cursor position="1056" topLine="17" />
+	</File>
+	<File name="KioskButtonBase.cpp" open="1" top="0" tabpos="20">
+		<Cursor position="237" topLine="0" />
+	</File>
+	<File name="KioskButtonBase.h" open="1" top="0" tabpos="21">
+		<Cursor position="1667" topLine="33" />
+	</File>
+	<File name="KioskCalendar.cpp" open="1" top="0" tabpos="54">
+		<Cursor position="135" topLine="0" />
+	</File>
+	<File name="KioskCalendar.h" open="1" top="0" tabpos="16">
+		<Cursor position="158" topLine="0" />
+	</File>
+	<File name="KioskCheckbox.cpp" open="1" top="0" tabpos="40">
+		<Cursor position="2140" topLine="37" />
+	</File>
+	<File name="KioskCheckbox.h" open="1" top="0" tabpos="39">
+		<Cursor position="769" topLine="0" />
+	</File>
+	<File name="KioskClockWidget.cpp" open="1" top="0" tabpos="52">
+		<Cursor position="3563" topLine="105" />
+	</File>
+	<File name="KioskClockWidget.h" open="1" top="0" tabpos="51">
+		<Cursor position="762" topLine="0" />
+	</File>
+	<File name="KioskDebug.h" open="1" top="0" tabpos="30">
+		<Cursor position="147" topLine="0" />
+	</File>
+	<File name="KioskElectricMeters.cpp" open="1" top="0" tabpos="28">
+		<Cursor position="3833" topLine="100" />
+	</File>
+	<File name="KioskElectricMeters.h" open="1" top="0" tabpos="29">
+		<Cursor position="747" topLine="0" />
+	</File>
+	<File name="KioskGUI.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="11723" topLine="410" />
+	</File>
+	<File name="KioskGUI.h" open="1" top="0" tabpos="5">
+		<Cursor position="329" topLine="0" />
+	</File>
+	<File name="KioskJukebox.cpp" open="1" top="1" tabpos="53">
+		<Cursor position="444" topLine="0" />
+	</File>
+	<File name="KioskJukebox.h" open="1" top="0" tabpos="55">
+		<Cursor position="469" topLine="0" />
+	</File>
+	<File name="KioskJukeboxItem.cpp" open="1" top="0" tabpos="54">
+		<Cursor position="1829" topLine="24" />
+	</File>
+	<File name="KioskJukeboxItem.h" open="1" top="0" tabpos="56">
+		<Cursor position="468" topLine="0" />
+	</File>
+	<File name="KioskJukeboxSelector.cpp" open="1" top="0" tabpos="57">
+		<Cursor position="4856" topLine="156" />
+	</File>
+	<File name="KioskJukeboxSelector.h" open="1" top="0" tabpos="58">
+		<Cursor position="534" topLine="14" />
+	</File>
+	<File name="KioskJukeboxWidget.cpp" open="1" top="0" tabpos="59">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="KioskJukeboxWidget.h" open="1" top="0" tabpos="60">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="KioskLightScheduleEditor.cpp" open="1" top="0" tabpos="35">
+		<Cursor position="1652" topLine="222" />
+	</File>
+	<File name="KioskLightScheduleEditor.h" open="1" top="0" tabpos="36">
+		<Cursor position="687" topLine="18" />
+	</File>
+	<File name="KioskLightSwitch.cpp" open="1" top="0" tabpos="37">
+		<Cursor position="2204" topLine="70" />
+	</File>
+	<File name="KioskLightSwitch.h" open="1" top="0" tabpos="38">
+		<Cursor position="507" topLine="3" />
+	</File>
+	<File name="KioskLightingMenu.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="1513" topLine="34" />
+	</File>
+	<File name="KioskLightingMenu.h" open="1" top="0" tabpos="1">
+		<Cursor position="214" topLine="0" />
+	</File>
+	<File name="KioskLineEdit.cpp" open="1" top="0" tabpos="24">
+		<Cursor position="2632" topLine="93" />
+	</File>
+	<File name="KioskLineEdit.h" open="1" top="0" tabpos="25">
+		<Cursor position="604" topLine="0" />
+	</File>
+	<File name="KioskMainMenu.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="1360" topLine="0" />
+	</File>
+	<File name="KioskMainMenu.h" open="1" top="0" tabpos="32">
+		<Cursor position="666" topLine="0" />
+	</File>
+	<File name="KioskMediaMenu.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="138" topLine="0" />
+	</File>
+	<File name="KioskMediaMenu.h" open="1" top="0" tabpos="14">
+		<Cursor position="367" topLine="0" />
+	</File>
+	<File name="KioskMeterWidget.cpp" open="1" top="0" tabpos="45">
+		<Cursor position="2176" topLine="82" />
+	</File>
+	<File name="KioskMeterWidget.h" open="1" top="0" tabpos="44">
+		<Cursor position="2663" topLine="49" />
+	</File>
+	<File name="KioskMonitoringMenu.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="876" topLine="0" />
+	</File>
+	<File name="KioskMonitoringMenu.h" open="1" top="0" tabpos="33">
+		<Cursor position="434" topLine="0" />
+	</File>
+	<File name="KioskNotePad.cpp" open="1" top="0" tabpos="41">
+		<Cursor position="7012" topLine="219" />
+	</File>
+	<File name="KioskNotePad.h" open="1" top="0" tabpos="42">
+		<Cursor position="2673" topLine="66" />
+	</File>
+	<File name="KioskSettings.cpp" open="1" top="0" tabpos="49">
+		<Cursor position="869" topLine="0" />
+	</File>
+	<File name="KioskSettings.h" open="1" top="0" tabpos="50">
+		<Cursor position="270" topLine="0" />
+	</File>
+	<File name="KioskSlideWidget.cpp" open="1" top="0" tabpos="47">
+		<Cursor position="5947" topLine="293" />
+	</File>
+	<File name="KioskSlideWidget.h" open="1" top="0" tabpos="48">
+		<Cursor position="2444" topLine="58" />
+	</File>
+	<File name="KioskStatusWidget.cpp" open="1" top="0" tabpos="26">
+		<Cursor position="497" topLine="0" />
+	</File>
+	<File name="KioskStatusWidget.h" open="1" top="0" tabpos="27">
+		<Cursor position="357" topLine="0" />
+	</File>
+	<File name="KioskUtilityMenu.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="659" topLine="0" />
+	</File>
+	<File name="KioskUtilityMenu.h" open="1" top="0" tabpos="14">
+		<Cursor position="302" topLine="0" />
+	</File>
+	<File name="KioskVirtualKeyboard.cpp" open="1" top="0" tabpos="18">
+		<Cursor position="2923" topLine="85" />
+	</File>
+	<File name="KioskVirtualKeyboard.h" open="1" top="0" tabpos="19">
+		<Cursor position="143" topLine="22" />
+	</File>
+	<File name="KioskWebBrowser.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="4440" topLine="141" />
+	</File>
+	<File name="KioskWebBrowser.h" open="1" top="0" tabpos="10">
+		<Cursor position="1269" topLine="33" />
+	</File>
+	<File name="KioskWindow.cpp" open="1" top="0" tabpos="43">
+		<Cursor position="185" topLine="0" />
+	</File>
+	<File name="KioskWindow.h" open="1" top="0" tabpos="17">
+		<Cursor position="3696" topLine="46" />
+	</File>
+	<File name="TestMeters.cpp" open="1" top="0" tabpos="46">
+		<Cursor position="535" topLine="0" />
+	</File>
+	<File name="cookiejar.cpp" open="1" top="0" tabpos="31">
+		<Cursor position="1417" topLine="0" />
+	</File>
+	<File name="cookiejar.h" open="1" top="0" tabpos="34">
+		<Cursor position="1996" topLine="15" />
+	</File>
+	<File name="kiosk.pro" open="1" top="0" tabpos="16">
+		<Cursor position="1345" topLine="0" />
+	</File>
+	<File name="kiosk.qrc" open="1" top="0" tabpos="11">
+		<Cursor position="3024" topLine="34" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1397" topLine="21" />
+	</File>
+</CodeBlocks_layout_file>

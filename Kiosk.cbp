@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Kiosk" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Kiosk" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Kiosk" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="/usr/include" />
+			<Add directory="/usr/include/qt4" />
+			<Add directory="/usr/include/qt4/QtGui" />
+			<Add directory="/usr/include/qt4/QtCore" />
+			<Add directory="/usr/include/qt4/QtOpenGL" />
+			<Add directory="/usr/include/qt4/QtDeclarative" />
+			<Add directory="/usr/include/qt4/QtNetwork" />
+			<Add directory="/usr/include/qt4/QtWebKit" />
+			<Add directory="/usr/include/qt4/QtSvg" />
+			<Add directory="/usr/include/qwt-qt4" />
+			<Add directory="qtscroller/include" />
+		</Compiler>
+		<Linker>
+			<Add library="QtGui" />
+			<Add library="QtCore" />
+			<Add library="QtNetwork" />
+			<Add library="QtWebKit" />
+			<Add library="QtOpenGL" />
+			<Add library="QtDeclarative" />
+			<Add library="QtScroller" />
+			<Add library="GLU" />
+			<Add library="GL" />
+			<Add library="pthread" />
+			<Add directory="/usr/lib" />
+			<Add directory="qtscroller/lib" />
+		</Linker>
+		<Unit filename="KioskBackground.cpp" />
+		<Unit filename="KioskBackground.h" />
+		<Unit filename="KioskButton.cpp" />
+		<Unit filename="KioskButton.h" />
+		<Unit filename="KioskButtonBase.cpp" />
+		<Unit filename="KioskButtonBase.h" />
+		<Unit filename="KioskCalendar.cpp" />
+		<Unit filename="KioskCalendar.h" />
+		<Unit filename="KioskCheckbox.cpp" />
+		<Unit filename="KioskCheckbox.h" />
+		<Unit filename="KioskClockWidget.cpp" />
+		<Unit filename="KioskClockWidget.h" />
+		<Unit filename="KioskDBLink.cpp" />
+		<Unit filename="KioskDBLink.h" />
+		<Unit filename="KioskDebug.h" />
+		<Unit filename="KioskElectricMeters.cpp" />
+		<Unit filename="KioskElectricMeters.h" />
+		<Unit filename="KioskGUI.cpp" />
+		<Unit filename="KioskGUI.h" />
+		<Unit filename="KioskJukebox.cpp" />
+		<Unit filename="KioskJukebox.h" />
+		<Unit filename="KioskJukeboxItem.cpp" />
+		<Unit filename="KioskJukeboxItem.h" />
+		<Unit filename="KioskJukeboxSelector.cpp" />
+		<Unit filename="KioskJukeboxSelector.h" />
+		<Unit filename="KioskJukeboxWidget.cpp" />
+		<Unit filename="KioskJukeboxWidget.h" />
+		<Unit filename="KioskLightScheduleEditor.cpp" />
+		<Unit filename="KioskLightScheduleEditor.h" />
+		<Unit filename="KioskLightSwitch.cpp" />
+		<Unit filename="KioskLightSwitch.h" />
+		<Unit filename="KioskLightingMenu.cpp" />
+		<Unit filename="KioskLightingMenu.h" />
+		<Unit filename="KioskLineEdit.cpp" />
+		<Unit filename="KioskLineEdit.h" />
+		<Unit filename="KioskMainMenu.cpp" />
+		<Unit filename="KioskMainMenu.h" />
+		<Unit filename="KioskMediaMenu.cpp" />
+		<Unit filename="KioskMediaMenu.h" />
+		<Unit filename="KioskMeterWidget.cpp" />
+		<Unit filename="KioskMeterWidget.h" />
+		<Unit filename="KioskMonitoringMenu.cpp" />
+		<Unit filename="KioskMonitoringMenu.h" />
+		<Unit filename="KioskNotePad.cpp" />
+		<Unit filename="KioskNotePad.h" />
+		<Unit filename="KioskQmlItems.h" />
+		<Unit filename="KioskSettings.cpp" />
+		<Unit filename="KioskSettings.h" />
+		<Unit filename="KioskSlideWidget.cpp" />
+		<Unit filename="KioskSlideWidget.h" />
+		<Unit filename="KioskStatusWidget.cpp" />
+		<Unit filename="KioskStatusWidget.h" />
+		<Unit filename="KioskUtilityMenu.cpp" />
+		<Unit filename="KioskUtilityMenu.h" />
+		<Unit filename="KioskVirtualKeyboard.cpp" />
+		<Unit filename="KioskVirtualKeyboard.h" />
+		<Unit filename="KioskWebBrowser.cpp" />
+		<Unit filename="KioskWebBrowser.h" />
+		<Unit filename="KioskWindow.cpp" />
+		<Unit filename="KioskWindow.h" />
+		<Unit filename="TestMeters.cpp" />
+		<Unit filename="cookiejar.cpp" />
+		<Unit filename="cookiejar.h" />
+		<Unit filename="kiosk.pro" />
+		<Unit filename="kiosk.qrc" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

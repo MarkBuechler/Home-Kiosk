@@ -1,0 +1,13 @@
+<RCC>
+  <qresource>
+    <file>clocks.qml</file>
+    <file>content/clock_background.png</file>
+    <file>content/center.png</file>
+    <file>content/clock-night.png</file>
+    <file>content/clock.png</file>
+    <file>content/hour.png</file>
+    <file>content/minute.png</file>
+    <file>content/second.png</file>
+    <file>content/Clock.qml</file>
+  </qresource>
+</RCC>
